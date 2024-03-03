@@ -1,1 +1,0 @@
-$(MP_EXTRA_AS_PRE)  -c -mprocessor=$(MP_PROCESSOR_OPTION) -DXPRJ_default=$(CND_CONF)    -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--gdwarf-2 C:\Users\josoj\MPLABXProjects\Practica_1.X\rtos\source\os_cpu_a.S
