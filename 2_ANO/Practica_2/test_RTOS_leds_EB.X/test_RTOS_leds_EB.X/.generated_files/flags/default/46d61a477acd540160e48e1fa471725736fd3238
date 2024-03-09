@@ -1,0 +1,1 @@
+$(MP_EXTRA_AS_PRE)  -c -mprocessor=$(MP_PROCESSOR_OPTION) -DXPRJ_default=$(CND_CONF)    -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--gdwarf-2 C:\Users\josoj_vlmzb1d\OneDrive\Escritorio\INFORMATICA\TOLERANTES\2_ANO\Practica_2\test_RTOS_leds_EB.X\test_RTOS_leds_EB.X\rtos\source\system_interrupt_a.S
